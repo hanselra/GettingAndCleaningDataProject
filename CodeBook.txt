@@ -1,0 +1,150 @@
+[Column Number]  “Column Name” - Description
+
+[1] "Group.1" - Subject ID (30 volunteer subjects for study) 
+                                                               
+ [2] "Group.2" - Activity (Options are: Walking, Walking_Upstairs, Walking_Downstairs, Sitting, Standing, Laying)
+              
+ [3] "Time_Body_Acceleration_Mean_X_Direction"  - Mean Time Domain acceleration signal from the body component in the X direction                           
+                                   
+ [4] "Time_Body_Acceleration_Mean_Y_Direction"  -Mean Time Domain acceleration signal from the body component in the Y direction                           
+
+ [5] "Time_Body_Acceleration_Mean_Z_Direction"     - Mean Time Domain acceleration signal from the body component in the Z direction                 
+                                          
+ [6] "Time_Gravity_Acceleration_Mean_X_Direction"  - Mean Time Domain acceleration signal from the gravity component in the X direction      
+                                                  
+ [7] "Time_Gravity_Acceleration_Mean_Y_Direction"  - Mean Time Domain acceleration signal from the gravity component in the Y direction     
+                                                     
+ [8] "Time_Gravity_Acceleration_Mean_Z_Direction"   - Mean Time Domain acceleration signal from the gravity component in the Z direction       
+                                        
+ [9] "Time_Body_Acceleration_Jerk_Mean_X_Direction"  - Mean Time domain Jerk signal in the X direction (derived from the body linear acceleration and angular velocity)
+                       
+[10] "Time_Body_Acceleration_Jerk_Mean_Y_Direction"  -Mean Time domain Jerk signal in the Y direction (derived from the body linear acceleration and angular velocity)
+                              
+[11] "Time_Body_Acceleration_Jerk_Mean_Z_Direction"  - Mean Time domain Jerk signal in the Z direction (derived from the body linear acceleration and angular velocity)                              
+
+[12] "Time_Body_Gyroscope_Mean_X_Direction"  -Mean Time Domain signal from the gyroscope in the X direction                                   
+   
+[13] "Time_Body_Gyroscope_Mean_Y_Direction"  -Mean Time Domain signal from the gyroscope in the Y direction                                                                         
+
+[14] "Time_Body_Gyroscope_Mean_Z_Direction"  -Mean Time Domain signal from the gyroscope in the Z direction                                                                                                         
+
+[15] "Time_Body_Gyroscope_Jerk_Mean_X_Direction"  -Mean Time Domain Jerk signal from the gyroscope in the X direction  
+                                   
+[16] "Time_Body_Gyroscope_Jerk_Mean_Y_Direction"   -Mean Time Domain Jerk signal from the gyroscope in the Y direction    
+                               
+[17] "Time_Body_Gyroscope_Jerk_Mean_Z_Direction"   -Mean Time Domain Jerk signal from the gyroscope in the Z direction           
+                       
+[18] "Time_Body_Acceleration_Magnitude_Mean"  -Mean Time Domain acceleration signal from the body component magnitude of the mean                                 
+
+[19] "Time_Gravity_Acceleration_Magnitude_Mean"   -Mean Time Domain acceleration signal from the gravity component magnitude of the mean                                     
+
+[20] "Time_Body_Acceleration_Jerk_Magnitude_Mean" -Mean Time Domain acceleration signal from the body component Jerk signal of magnitude of the mean                                    
+
+[21] "Time_Body_Gyroscope_Magnitude_Mean" -Mean Time Domain gyroscope signal from the body component magnitude of the mean                                          
+
+[22] "Time_Body_Gyroscope_Jerk_Magnitude_Mean"  -Mean Time Domain gyroscope  signal from the body component Jerk signal of magnitude of the mean                                    
+
+[23] "Frequency_Body_Acceleration_Mean_X_Direction"  - Mean frequency domain signal of the acceleration from the body component in the X direction               
+
+[24] "Frequency_Body_Acceleration_Mean_Y_Direction"  - Mean frequency domain signal of the acceleration from the body component in the Y direction                                 
+
+[25] "Frequency_Body_Acceleration_Mean_Z_Direction"  - Mean frequency domain signal of the acceleration from the body component in the Z direction                                
+
+[26] "Frequency_Body_Acceleration_Mean_Frequency_X_Direction" -Weighted average of the frequency components to obtain a mean frequency  of the  frequency domain signal of the acceleration from the body component in the X direction       
+                         
+[27] "Frequency_Body_Acceleration_Mean_Frequency_Y_Direction"   -Weighted average of the frequency components to obtain a mean frequency  of the  frequency domain signal of the acceleration from the body component in the Y direction       
+  
+[28] "Frequency_Body_Acceleration_Mean_Frequency_Z_Direction"  -Weighted average of the frequency components to obtain a mean frequency  of the  frequency domain signal of the acceleration from the body component in the Z direction  
+        
+[29] "Frequency_Body_Acceleration_Jerk_Mean_X_Direction"   - Mean frequency domain signal of the acceleration of the derived jerk signal from the body component in the X direction                  
+        
+[30] "Frequency_Body_Acceleration_Jerk_Mean_Y_Direction" - Mean frequency domain signal of the acceleration of the derived jerk signal from the body component in the Y direction                  
+
+             
+[31] "Frequency_Body_Acceleration_Jerk_Mean_Z_Direction"   - Mean frequency domain signal of the acceleration of the derived jerk signal from the body component in the Y direction                  
+
+           
+[32] "Frequency_Body_Acceleration_Jerk_Mean_Frequency_X_Direction"    -Weighted average of the frequency components to obtain a mean frequency  of the  frequency domain signal of the acceleration from the body component and the derived Jerk signal in the X direction 
+ 
+[33] "Frequency_Body_Acceleration_Jerk_Mean_Frequency_Y_Direction"  -Weighted average of the frequency components to obtain a mean frequency  of the  frequency domain signal of the acceleration from the body component and the derived Jerk signal in the Y direction 
+   
+[34] "Frequency_Body_Acceleration_Jerk_Mean_Frequency_Z_Direction"    -Weighted average of the frequency components to obtain a mean frequency  of the  frequency domain signal of the acceleration from the body component and the derived Jerk signal in the Z direction 
+ 
+[35] "Frequency_Body_Gyroscope_Mean_X_Direction"  -Mean Frequency Domain gyroscope signal from the body in the X direction    
+                  
+[36] "Frequency_Body_Gyroscope_Mean_Y_Direction"     -Mean Frequency Domain gyroscope signal from the body in the Y direction  
+                     
+[37] "Frequency_Body_Gyroscope_Mean_Z_Direction"  -Mean Frequency Domain gyroscope signal from the body in the Z direction     
+                     
+[38] "Frequency_Body_Gyroscope_Mean_Frequency_X_Direction"   -Weighted average of the frequency components to obtain a mean frequency  of the  frequency domain signal of the gyroscope from the body in the X direction 
+         
+[39] "Frequency_Body_Gyroscope_Mean_Frequency_Y_Direction" -Weighted average of the frequency components to obtain a mean frequency  of the  frequency domain signal of the gyroscope from the body in the Y direction 
+           
+[40] "Frequency_Body_Gyroscope_Mean_Frequency_Z_Direction"  -Weighted average of the frequency components to obtain a mean frequency  of the  frequency domain signal of the gyroscope from the body in the Z direction    
+       
+[41] "Frequency_Body_Acceleration_Magnitude_Mean"   -Magnitude of the mean of the frequency domain signal of the acceleration from the body component         
+
+[42] "Frequency_Body_Acceleration_Magnitude_MeanFrequency"   -Weighted average of the frequency components to obtain a mean frequency for the acceleration from the body component
+
+        
+[43] "Time_Body_Acceleration_Standard_Deviation_X_Direction" -Standard deviation of the time domain signal for the  acceleration from the body component in the X direction
+        
+[44] "Time_Body_Acceleration_Standard_Deviation_Y_Direction"   -Standard deviation of the time domain signal for the  acceleration from the body component in the Y direction
+       
+[45] "Time_Body_Acceleration_Standard_Deviation_Z_Direction"   -Standard deviation of the time domain signal for the  acceleration from the body component in the Z direction       
+
+
+[46] "Time_Gravity_Acceleration_Standard_Deviation_X_Direction"    -Standard deviation of the time domain signal for gravity from the acceleration signal in the X direction          
+
+[47] "Time_Gravity_Acceleration_Standard_Deviation_Y_Direction"    -Standard deviation of the time domain signal for gravity from the acceleration signal in the Y direction       
+
+[48] "Time_Gravity_Acceleration_Standard_Deviation_Z_Direction"  -Standard deviation of the time domain signal for gravity from the acceleration signal  in the Z direction 
+        
+[49] "Time_Body_Acceleration_Jerk_Standard_Deviation_X_Direction"  -Standard deviation of the time domain signal for the body component of the acceleration of the jerk signal in the X direction       
+
+[50] "Time_Body_Acceleration_Jerk_Standard_Deviation_Y_Direction"    -Standard deviation of the time domain signal for the body component of the acceleration of the jerk signal in the Y direction       
+  
+[51] "Time_Body_Acceleration_Jerk_Standard_Deviation_Z_Direction"  -Standard deviation of the time domain signal for the body component of the acceleration of the jerk signal in the Z direction       
+    
+[52] "Time_Body_Gyroscope_Standard_Deviation_X_Direction"  -Standard deviation of the time domain signal for the gyroscope from the body component in the X direction 
+          
+[53] "Time_Body_Gyroscope_Standard_Deviation_Y_Direction" -Standard deviation of the time domain signal for the gyroscope from the body component in the Y direction  
+           
+[54] "Time_Body_Gyroscope_Standard_Deviation_Z_Direction"   -Standard deviation of the time domain signal for the gyroscope from the body component in the Z direction           
+
+[55] "Time_Body_Gyroscope_Jerk_Standard_Deviation_X_Direction"  - Standard deviation of the time domain signal from the gyroscope jerk measurement in the X direction       
+
+[56] "Time_Body_Gyroscope_Jerk_Standard_Deviation_Y_Direction"  - Standard deviation of the time domain signal from the gyroscope jerk measurement in the Y direction       
+      
+[57] "Time_Body_Gyroscope_Jerk_Standard_Deviation_Z_Direction"  - Standard deviation of the time domain signal from the gyroscope jerk measurement in the Z direction            
+ 
+[58] "Time_Body_Acceleration_Magnitude_Standard_Deviation"    -Standard deviation of the time domain signal for the magnitude of the acceleration from the body component
+        
+[59] "Time_Gravity_Acceleration_Magnitude_Standard_Deviation"   - Standard deviation of the time domain signal for the magnitude of the acceleration from the gravity component
+
+[60] "Time_Body_Acceleration_Jerk_Magnitude_Standard_Deviation" - Standard deviation of the time domain signal for the magnitude of the jerk signal of the body component from the acceleration
+  
+[61] "Time_Body_Gyroscope_Magnitude_Standard_Deviation"   -Standard deviation of the magnitude of the time domain signal from the body component from the gyroscope       
+    
+[62] "Time_Body_Gyroscope_Jerk_Magnitude_Standard_Deviation" -Standard deviation of the magnitude of the time domain signal from the body component and jerk signal from the gyroscope       
+         
+[63] "Frequency_Body_Acceleration_Standard_Deviation_X_Direction"   -Standard deviation of the frequency domain signal from the acceleration of the body component in the X direction   
+
+[64] "Frequency_Body_Acceleration_Standard_Deviation_Y_Direction"  -Standard deviation of the frequency domain signal from the acceleration of the body component in the Y direction   
+   
+[65] "Frequency_Body_Acceleration_Standard_Deviation_Z_Direction"   -Standard deviation of the frequency domain signal from the acceleration of the body component in the Z direction 
+    
+[66] "Frequency_Body_Acceleration_Jerk_Standard_Deviation_X_Direction"-Standard deviation of the frequency domain signal from the acceleration of the body component jerk signal in the X direction   
+
+[67] "Frequency_Body_Acceleration_Jerk_Standard_Deviation_Y_Direction"-Standard deviation of the frequency domain signal from the acceleration of the body component jerk signal in the Y direction   
+
+[68] "Frequency_Body_Acceleration_Jerk_Standard_Deviation_Z_Direction"-Standard deviation of the frequency domain signal from the acceleration of the body component jerk signal in the Z direction   
+
+[69] "Frequency_Body_Gyroscope_Standard_Deviation_X_Direction"    -Standard deviation of the frequency domain signal from the gyroscope of the body component in the X direction       
+
+[70] "Frequency_Body_Gyroscope_Standard_Deviation_Y_Direction"   -Standard deviation of the frequency domain signal from the gyroscope of the body component in the Y direction       
+      
+[71] "Frequency_Body_Gyroscope_Standard_Deviation_Z_Direction"   -Standard deviation of the frequency domain signal from the gyroscope of the body component in the Z direction       
+      
+[72] "Frequency_Body_Acceleration_Magnitude_Standard_Deviation"   -Standard deviation of the frequency domain signal for the magnitude of the acceleration from the body component    
+> 
