@@ -71,3 +71,4 @@ colnames(onlymeansandsd)<-t19
 tidy_data<-aggregate(onlymeansandsd[3:72], by=list(onlymeansandsd$SubjectId, onlymeansandsd$Activity), FUN=mean, na.rm=TRUE)
 
 write.table(tidy_data, "tidy_data.txt")
+print(tidy_data)
